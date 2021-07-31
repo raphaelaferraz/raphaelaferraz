@@ -1,3 +1,4 @@
+##Seja muito bem vindo(a)!
 - 👋 Olá! Sou a Raphaela Ferraz!
 - 👀  Estou sempre interessada em aprender coisas novas.
 - 🌱 Atualmente estou aprendendo Javascript, através da plataforma on-line Google Grasshopper e Python, através do meu curso técnico. 

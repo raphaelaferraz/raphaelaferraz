@@ -1,7 +1,8 @@
-## Seja muito bem vindo(a)!
+## Seja muito bem vindo(a)! 💖
 - 👋 Oii, eu sou a Raphaela Ferraz!
-- 👀  Estou sempre interessada em aprender coisas novas.
+- 👀  Estou sempre interessada em aprender coisas novas. 
 - 🌱 Atualmente estou aprendendo Javascript, através da plataforma on-line Google Grasshopper e Python, através do meu curso técnico integrado ao ensino médio no Instituto Federal.
+- 💻 Estou cursando a formação Front-end da Alura!
 - 💞️ Procuro colaborar com códigos em Javascript, HTML, CSS e em Python.
 
 <div>

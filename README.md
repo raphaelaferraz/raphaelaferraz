@@ -1,9 +1,10 @@
 ## Seja muito bem vindo(a)! 💖
 - 👋 Oii, eu sou a Raphaela Ferraz!
-- 👀  Estou sempre interessada em aprender coisas novas. 
 - 🌱 Atualmente estou me aperfeiçoando em desenvolvimento Front-end. 
-- 💻 Estou cursando Técnico em Redes de Computadores
-- 💞️ Procuro colaborar com códigos em Javascript, HTML5 e CSS3. 
+- 💻 Estou cursando Técnico em Redes de Computadores no [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/).
+- 💞️ Procuro colaborar com códigos em Javascript, HTML5 e CSS3.
+- 🔎 Desenvolvendo uma pesquisa acadêmica sobre Cibersegurança.
+- 🧑‍💻Programming Pair: [Victor G. Marques](https://github.com/VictorGM01/) - Estudante de Redes com especialização na área de Back-end. 
 
 <div>
   <a href="https://github.com/raphaelaferraz">

@@ -2,7 +2,7 @@
 - 👋 Oii, eu sou a Raphaela Ferraz!
 - 💻 Técnica em Redes de Computadores pelo [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/).
 - 🔎 Pesquisa Acadêmica: [Cibersegurança](https://github.com/raphaelaferraz/cyber_sec_info/)
-- 🧑‍💻Programming Pair: [Victor G. Marques](https://github.com/VictorGM01/) - Técnoco em Redes com especialização na área de Back-end. 
+- 🧑‍💻Programming Pair: [Victor G. Marques](https://github.com/VictorGM01/) - Técnico em Redes com especialização na área de Back-end. 
 
 <div>
   <a href="https://github.com/raphaelaferraz">

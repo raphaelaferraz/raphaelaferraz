@@ -1,7 +1,10 @@
 ## Seja muito bem vindo(a)! 💖
 - 👋 Oii, eu sou a Raphaela Ferraz!
-- 💻 Técnica em Redes de Computadores pelo [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/).
+- 💻 Técnica em Redes de Computadores pelo [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/)
+- 👩🏼‍🎓 Graduanda de Engenharia de Software pelo [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)
 - 🔎 Pesquisa Acadêmica: [Cibersegurança](https://github.com/raphaelaferraz/cyber_sec_info/)
+- 📝Artigo Científico: [Desenvolvimento de uma Aplicação Web para Divulgação de Conteúdos e Ferramentas Acerca da Cibersegurança](https://ocs.ifsp.edu.br/conict/xiiiconict/paper/view/8254)
+- 📝Artigo Científico: [Cyber Security Information: aplicação web para a democratização do acesso aos conteúdos relacionados à cibersegurança](https://intranet.cbt.ifsp.edu.br/qualif/atual.html#:~:text=Cyber%20Security%20Information%3A%20aplica%C3%A7%C3%A3o%20web%20para%20a%20democratiza%C3%A7%C3%A3o%20do%20acesso%20aos%20conte%C3%BAdos%20relacionados%20%C3%A0%20ciberseguran%C3%A7a)
 - 🧑‍💻Programming Pair: [Victor G. Marques](https://github.com/VictorGM01/) - Técnico em Redes com especialização na área de Back-end. 
 
 <div>

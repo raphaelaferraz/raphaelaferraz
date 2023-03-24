@@ -1,4 +1,4 @@
-## Seja muito bem vindo(a)! 💖
+## Seja muito bem-vindo(a)! 💖
 - 👋 Oii, eu sou a Raphaela Ferraz!
 - 💻 Técnica em Redes de Computadores pelo [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/)
 - 👩🏼‍🎓 Graduanda de Engenharia de Software pelo [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)
